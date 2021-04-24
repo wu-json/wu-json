@@ -4,6 +4,7 @@
 {
   "name": "Jason Wu",
   "currently": ["swe @snackpass", "junior @yale"],
+  "twitter": "@wu_json",
   "website:": "https://jasonwu.io"
 }
 ```
