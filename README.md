@@ -1,4 +1,12 @@
-### Hi there 👋
+### wu.json
+
+```
+{
+  "name": "Jason Wu",
+  "currently": ["swe @snackpass", "junior @yale"],
+  "website:": "https://jasonwu.io"
+}
+```
 
 <!--
 **wu-json/wu-json** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
