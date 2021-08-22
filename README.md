@@ -3,7 +3,7 @@
 ```
 {
   "name": "Jason Wu",
-  "currently": ["swe @amazon", "rising senior @yale"],
+  "currently": ["swe @atom-finance", "senior @yale"],
   "twitter": "@wu_json",
   "website:": "https://jasonwu.io"
 }
