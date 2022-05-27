@@ -3,7 +3,7 @@
 ```
 {
   "name": "Jason Wu",
-  "currently": ["unemployed and chilling"],
+  "currently": ["swe @snackpass"],
   "alma_matter": "yale university 22"
   "twitter": "@wu_json",
   "website:": "https://jasonwu.io"
