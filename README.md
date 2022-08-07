@@ -4,8 +4,9 @@
 {
   "name": "Jason Wu",
   "currently": ["swe @snackpass"],
-  "alma_matter": "yale university 22"
+  "alma_matter": "yale 22"
   "twitter": "@wu_json",
+  "vailable": "https://vailable.io",
   "website:": "https://jasonwu.io"
 }
 ```
