@@ -3,7 +3,7 @@
 ```
 {
   "name": "Jason Wu",
-  "currently": ["swe @snackpass"],
+  "currently": ["swe @snackpass", "creator @vailable"],
   "alma_matter": "yale 22"
   "twitter": "@wu_json",
   "vailable": "https://vailable.io",
