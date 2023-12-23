@@ -4,7 +4,7 @@ I like to build things that may or may not be useful depending on how I'm feelin
 
 Fax:
 - Full stack developer that happens to also like devops and infra
-- Recently joined the Neovim community (help how do iexit :qa this thing)
+- Recently joined the Neovim community (lua lua lua lua)
 - Trying to learn 日本語
 - Yale University Class of 2022
 
