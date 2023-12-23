@@ -1,6 +1,8 @@
-I like to build things that may or may not be useful depending on how I'm feeling.
+### The Dark Pear
 
-Fax:
+> I like to build things that may or may not be useful depending on how I'm feeling.
+
+### Fax
 
 - Full stack developer that happens to like devops and infra
 - I use Neovim btw (Lazy + WezTerm + lua lua lua lua)
