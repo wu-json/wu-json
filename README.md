@@ -1,7 +1,7 @@
 ### Fax
 
 - Full stack developer that happens to like devops and infra
-- I use Neovim btw (Lazy + WezTerm + lua lua lua lua)
+- I use Neovim btw (lua lua lua lua lua lua lua)
 - Yale university class of 2022
   - bs'ed computer sci-... I mean B.S. in computer science
   - software engineering spring 2022 TA
