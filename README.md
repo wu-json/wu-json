@@ -6,6 +6,6 @@ Fax:
 - Full stack developer that happens to also like devops and infra
 - Recently joined the Neovim community (help how do iexit :qa this thing)
 - Trying to learn 日本語
-- Graduted from Yale University Class of 2022
+- Yale University Class of 2022
 
 <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wu-json&hide=html,jupyter+notebook,scss,gdscript,javascript,c%2b%2b&layout=compact&hide_border=true&theme=transparent" />
