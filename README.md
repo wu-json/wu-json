@@ -1,3 +1,5 @@
-`wu.json`
+### The Dark Pear
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wu-json&hide=html,jupyter+notebook,scss,c%2b%2b&layout=compact&hide_border=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+I like to build things that may or may not be useful depending on how I'm feeling.
+
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wu-json&hide=html,jupyter+notebook,scss,gdscript,javascript,c%2b%2b&layout=compact&hide_border=true&theme=transparent" />
