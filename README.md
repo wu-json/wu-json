@@ -1,7 +1,3 @@
-### The Dark Pear
-
-> I like to build things that may or may not be useful depending on how I'm feeling.
-
 ### Fax
 
 - Full stack developer that happens to like devops and infra
