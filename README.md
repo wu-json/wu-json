@@ -1,7 +1,7 @@
 ### Fax
 
 - Full stack developer that happens to like devops and infra
-- Neovim + WezTerm + Fish <3
+- Neovim + WezTerm + Fish fiend
 - Yale university class of 2022 (B.S. in computer science)
 - Currently playing Persona 5 Royal
 - Trying to learn 日本語
