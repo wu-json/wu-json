@@ -1,4 +1,4 @@
-![DSC00858](https://github.com/user-attachments/assets/d16bac04-763f-4bf4-b583-f0e10cd4af60)
+![DSC00858(1)](https://github.com/user-attachments/assets/3bd99848-9e4b-4c87-ba67-061066dc2b49)
 
 ### Things I made
 - [Curse](https://github.com/wu-json/curse): Dead simple interactive process manager in your terminal
