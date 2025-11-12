@@ -5,5 +5,5 @@
 - [Chainsaw.nvim](https://github.com/wu-json/chainsaw.nvim): Lua themes based on Chainsaw Man characters
 
 ### Stuff I'm working on
-- [React Ink](https://github.com/vadimdemedes/ink): Building incremental rendering to solve terminal flickering
+- [React Ink](https://github.com/vadimdemedes/ink): Built incremental rendering
 - [tweakcc](https://github.com/Piebald-AI/tweakcc): Helping people make claude code their own
