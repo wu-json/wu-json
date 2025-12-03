@@ -6,4 +6,3 @@
 
 ### Stuff I'm working on
 - [React Ink](https://github.com/vadimdemedes/ink): Built incremental rendering ([PR #781](https://github.com/vadimdemedes/ink/pull/781))
-- [tweakcc](https://github.com/Piebald-AI/tweakcc): Helping people make claude code their own
