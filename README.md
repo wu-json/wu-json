@@ -6,5 +6,7 @@
 - [Chainsaw.nvim](https://github.com/wu-json/chainsaw.nvim): Lua themes based on Chainsaw Man characters
 
 ### Stuff I'm working on
-- [React Ink](https://github.com/vadimdemedes/ink): Built incremental rendering ([PR #781](https://github.com/vadimdemedes/ink/pull/781))
 - [Blossom](https://github.com/wu-json/blossom): Learn languages with AI
+
+### Contributions
+- [React Ink](https://github.com/vadimdemedes/ink): Built incremental rendering ([PR #781](https://github.com/vadimdemedes/ink/pull/781))
