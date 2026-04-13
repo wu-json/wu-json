@@ -1,4 +1,4 @@
-![DSC00858(1)](https://github.com/user-attachments/assets/3bd99848-9e4b-4c87-ba67-061066dc2b49)
+![Japan city intersection](japan-city-intersection.jpg)
 
 ### Things I made
 - [Curse](https://github.com/wu-json/curse): Dead simple interactive process manager in your terminal
