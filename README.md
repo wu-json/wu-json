@@ -1,10 +1,11 @@
 ![Japan city intersection](japan-city-intersection.jpg)
 
 ### Things I made
+- [oxalis.ink](https://oxalis.ink): Immersion language learning app with a fully local inference stack
 - [Curse](https://github.com/wu-json/curse): Dead simple interactive process manager in your terminal
-- [Pickpocket](https://github.com/wu-json/pickpocket): Vendor git repos as local LLM context for your coding agents
 - [Dovetail](https://github.com/wu-json/dovetail): Expose local services on tailscale
 - [Chainsaw.nvim](https://github.com/wu-json/chainsaw.nvim): Lua themes based on Chainsaw Man characters
+- [link-preview.nvim](https://github.com/wu-json/link-preview.nvim): Neovim plugin for pretty open graph link previews
 
-### Contributions
+### Things I worked on
 - [React Ink](https://github.com/vadimdemedes/ink): Built incremental rendering ([PR #781](https://github.com/vadimdemedes/ink/pull/781))
