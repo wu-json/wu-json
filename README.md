@@ -1,10 +1,10 @@
 ![Japan city intersection](japan-city-intersection.jpg)
 
 ### Things I made
-- [oxalis.ink](https://oxalis.ink): Immersion language learning app with a fully local inference stack
+- [Oxalis](https://oxalis.ink): Immersion language learning app with fully local inference
 - [Curse](https://github.com/wu-json/curse): Dead simple interactive process manager in your terminal
 - [Dovetail](https://github.com/wu-json/dovetail): Expose local services on tailscale
-- [Chainsaw.nvim](https://github.com/wu-json/chainsaw.nvim): Lua themes based on Chainsaw Man characters
+- [chainsaw.nvim](https://github.com/wu-json/chainsaw.nvim): Lua themes based on Chainsaw Man characters
 - [link-preview.nvim](https://github.com/wu-json/link-preview.nvim): Neovim plugin for pretty open graph link previews
 
 ### Things I worked on
