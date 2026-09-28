@@ -1,4 +1,4 @@
-![Japan city intersection](japan-city-intersection.jpg)
+![Black and white maple leaves](maple-leaves.jpg)
 
 ### Things I made
 - [Oxalis](https://oxalis.ink): Immersion language learning app with fully local inference
